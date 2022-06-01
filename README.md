@@ -12,7 +12,7 @@ The script loaded on Amazon Prime Video determines the quality of the video by t
 
 # Supports
 
-### Chromium browsers that I tested
+### Chromium browsers
 - Google Chrome
 - Brave
 - Microsoft Edge
