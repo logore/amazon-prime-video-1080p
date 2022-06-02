@@ -21,16 +21,28 @@ The script loaded on Amazon Prime Video determines the quality of the video by t
 - Windows
 - macOS
 
+### Domains
+- amazon.co.jp
+- amazon.com (I didn't test)
+
 <br>
 
-Note: I have done a lot of research on the problem of not being able to play HD videos on Linux, but have not found a solution.
+### Note: I have done a lot of research on the problem of not being able to play HD videos on Linux, but have not found a solution.
 
 <br>
 
 # Information
+So far, not sure if the script will work on amazon.com.
+So If you are someone who can edit the source code, try that yourself please.
 
-Some videos themselves are 720p (not 1080p) , in which case they are HD.
+Also, I accept issues, so please feel free to create an issue!
 
 <br>
 
-If the video is not in 1080p, try seeking the video
+### Checks
+
+- Not all videos on Amazon Prime Video are 1080p. Some of the original videos themselves are 720p (not 1080p), in which case they are HD.
+
+- If the video is not in 1080p, try seeking the video
+
+___
