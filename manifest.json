@@ -6,11 +6,15 @@
   "content_scripts": [{
     "matches": [
       "https://www.amazon.co.jp/gp/video/detail/*",
+      "https://www.amazon.co.jp/*/dp/*",
       "https://www.amazon.com/gp/video/detail/*"
     ],
     "run_at": "document_start",
     "js": [
       "js/content_script.js"
+    ],
+    "css": [
+      "css/content_style.css"
     ]
   }],
   "icons": {
