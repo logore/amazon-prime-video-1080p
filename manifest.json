@@ -6,12 +6,17 @@
   "content_scripts": [{
     "matches": [
       "https://www.amazon.co.jp/gp/video/detail/*",
+      "https://www.amazon.co.jp/*/gp/video/detail/*",
       "https://www.amazon.co.jp/gp/video/storefront/*",
+      "https://www.amazon.co.jp/*/gp/video/storefront/*",
       "https://www.amazon.co.jp/b?node=*",
+      "https://www.amazon.co.jp/*/b/*",
       "https://www.amazon.co.jp/*/dp/*",
       "https://www.amazon.com/gp/video/detail/*",
       "https://www.amazon.com/gp/video/storefront/*",
-      "https://www.amazon.com/b?node=*"
+      "https://www.amazon.com/b?node=*",
+      "https://www.primevideo.com/region/*/detail/*",
+      "https://www.primevideo.com/detail/*"
     ],
     "run_at": "document_start",
     "js": [

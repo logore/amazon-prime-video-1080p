@@ -22,7 +22,7 @@ The script loaded on Amazon Prime Video determines the quality of the video by t
 
 #### Domains
 - amazon.co.jp
-- amazon.com (I didn't test)
+- amazon.com (testing)
 
 #### Note: I have done a lot of research on the problem of not being able to play HD videos on Linux, but have not found a solution.
 
