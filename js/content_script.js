@@ -70,7 +70,7 @@ const main = () => {
                     // the maximum bandwidth will cause the file size to be large, so it will be overloaded.
 
                     // delete other representation elements
-                    dom.querySelectorAll('Period')[periodIndex].querySelector(`AdaptationSet[contentType="video"] > Representation[id="${id}"`).remove()
+                    dom.querySelectorAll('Period')[periodIndex].querySelector(`AdaptationSet[contentType="video"] > Representation[id="${id}"]`).remove()
                   }
                 })
 
