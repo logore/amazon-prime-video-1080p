@@ -1,15 +1,18 @@
 ## Amazon Prime Video 1080p
 
 A Chrome Extension that forces 1080p resolution for videos on Amazon Prime Video to be applied
-  
+
+![CHAINSAWMAN S01 EP.12](https://user-images.githubusercontent.com/106620095/237382737-a8b1dcd9-51bc-4ec8-a1f8-c74c2ee38e64.png)
 <br>
 
 ## How does it work?
-The script loaded on Amazon Prime Video determines the quality of the video by the size of the browser window, so it just rewrites it on page load.
+~~The script loaded on Amazon Prime Video determines the quality of the video by the size of the browser window, so it just rewrites it on page load.~~
+
+Rewrites the Media Presentation Description (MPD) used for video streaming and replaces it with the highest quality video.
 
 <br>
 
-## Supports
+## Support
 
 #### Chromium browsers
 - Google Chrome
@@ -36,7 +39,7 @@ Also, I accept issues, so please feel free to create an issue!
 
 <br>
 
-## Checks
+## Check
 
 - Not all videos on Amazon Prime Video are 1080p. Some of the original videos themselves are 720p (not 1080p), in which case they are HD.
 
