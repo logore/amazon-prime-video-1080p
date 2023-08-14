@@ -29,9 +29,5 @@
   "icons": {
     "128": "icons/icon128.png"
    },
-  "permissions":  ["tabs", "scripting", "storage"],
-  "host_permissions": [
-    "http://*/*",
-    "https://*/*"
-  ]
+  "permissions":  ["tabs", "scripting", "storage"]
 }
