@@ -12,6 +12,11 @@ Rewrites the Media Presentation Description (MPD) used for video streaming and r
 
 <br>
 
+## Installation
+https://user-images.githubusercontent.com/106620095/182008817-a4ebf596-e75c-40ec-9abf-177a658ce293.mp4
+
+<br>
+
 ## Support
 
 #### Chromium browsers
@@ -35,7 +40,7 @@ Rewrites the Media Presentation Description (MPD) used for video streaming and r
 So far, not sure if the script will work on amazon.com.
 So If you are someone who can edit the source code, try that yourself please.
 
-Also, I accept issues, so please feel free to create an issue!
+Also, I accept issues, so please feel free to open an issue!
 
 <br>
 
