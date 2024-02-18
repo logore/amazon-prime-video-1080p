@@ -23,6 +23,7 @@
       "https://www.amazon.com/gp/video/storefront/*",
       "https://www.amazon.com/b?node=*",
       "https://www.primevideo.com/region/*/detail/*",
+      "https://www.primevideo.com/*/*/region/*/detail/*",
       "https://www.primevideo.com/detail/*"
     ],
     "run_at": "document_start",
